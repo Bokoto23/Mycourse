@@ -1,2 +1,0 @@
-# Mycourse
-E-learning
